@@ -7,36 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A000001000000001A000001 /* FlameAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000000000000001A000000 /* FlameAppApp.swift */; };
-		1A000003000000001A000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000002000000001A000001 /* ContentView.swift */; };
-		1A000005000000001A000003 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A000004000000001A000002 /* Assets.xcassets */; };
-		1A000008000000001A000004 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A000007000000001A000003 /* Preview Assets.xcassets */; };
-		1A00000A000000001A000005 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000009000000001A000004 /* Story.swift */; };
-		1A00000C000000001A000006 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00000B000000001A000005 /* User.swift */; };
-		1A00000E000000001A000007 /* AuthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00000D000000001A000006 /* AuthView.swift */; };
-		1A000010000000001A000008 /* DiscoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A00000F000000001A000007 /* DiscoverView.swift */; };
-		1A000012000000001A000009 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000011000000001A000008 /* LibraryView.swift */; };
-		1A000014000000001A00000A /* StoryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000013000000001A000009 /* StoryDetailView.swift */; };
-		1A000016000000001A00000B /* ReadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A000015000000001A00000A /* ReadingView.swift */; };
+		FAA00001000000001A000001 /* FlameAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA00000000000001A000000 /* FlameAppApp.swift */; };
+		FAA00003000000001A000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA00002000000001A000001 /* ContentView.swift */; };
+		FAA00005000000001A000003 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA00004000000001A000002 /* Assets.xcassets */; };
+		FAA00008000000001A000004 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA00007000000001A000003 /* Preview Assets.xcassets */; };
+		FAA0000A000000001A000005 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA00009000000001A000004 /* Story.swift */; };
+		FAA0000C000000001A000006 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA0000B000000001A000005 /* User.swift */; };
+		FAA0000E000000001A000007 /* AuthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA0000D000000001A000006 /* AuthView.swift */; };
+		FAA00010000000001A000008 /* DiscoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA0000F000000001A000007 /* DiscoverView.swift */; };
+		FAA00012000000001A000009 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA00011000000001A000008 /* LibraryView.swift */; };
+		FAA00014000000001A00000A /* StoryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA00013000000001A000009 /* StoryDetailView.swift */; };
+		FAA00016000000001A00000B /* ReadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA00015000000001A00000A /* ReadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1A000000000000001A000000 /* FlameAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlameAppApp.swift; sourceTree = "<group>"; };
-		1A000002000000001A000001 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		1A000004000000001A000002 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1A000007000000001A000003 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		1A000009000000001A000004 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
-		1A00000B000000001A000005 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		1A00000D000000001A000006 /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
-		1A00000F000000001A000007 /* DiscoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverView.swift; sourceTree = "<group>"; };
-		1A000011000000001A000008 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
-		1A000013000000001A000009 /* StoryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailView.swift; sourceTree = "<group>"; };
-		1A000015000000001A00000A /* ReadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingView.swift; sourceTree = "<group>"; };
-		1AFFFFFFFFFFFFFFFA000000 /* FlameApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlameApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAA00000000000001A000000 /* FlameAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlameAppApp.swift; sourceTree = "<group>"; };
+		FAA00002000000001A000001 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FAA00004000000001A000002 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FAA00007000000001A000003 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FAA00009000000001A000004 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		FAA0000B000000001A000005 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		FAA0000D000000001A000006 /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
+		FAA0000F000000001A000007 /* DiscoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverView.swift; sourceTree = "<group>"; };
+		FAA00011000000001A000008 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		FAA00013000000001A000009 /* StoryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailView.swift; sourceTree = "<group>"; };
+		FAA00015000000001A00000A /* ReadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingView.swift; sourceTree = "<group>"; };
+		FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlameApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1AFFFFFFFFFFFFFFFD000000 /* Frameworks */ = {
+		FAAFFFFFFFFFFFFFFD000000 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -46,74 +46,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1AFFFFFFFFFFFFFFFFFFFFFF /* FlameApp */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* */ = {
 			isa = PBXGroup;
 			children = (
-				1A000000000000001A000000 /* FlameAppApp.swift */,
-				1A000002000000001A000001 /* ContentView.swift */,
-				1AFFFFFFFFFFFFFFFFFFFFF0 /* Models */,
-				1AFFFFFFFFFFFFFFFFFFFFF1 /* Views */,
-				1A000004000000001A000002 /* Assets.xcassets */,
-				1A000006000000001A000003 /* Preview Content */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp */ = {
+			isa = PBXGroup;
+			children = (
+				FAA00000000000001A000000 /* FlameAppApp.swift */,
+				FAA00002000000001A000001 /* ContentView.swift */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Models */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Views */,
+				FAA00004000000001A000002 /* Assets.xcassets */,
+				FAA00006000000001A000003 /* Preview Content */,
 			);
 			path = FlameApp;
 			sourceTree = "<group>";
 		};
-		1A000006000000001A000003 /* Preview Content */ = {
+		FAA00006000000001A000003 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				1A000007000000001A000003 /* Preview Assets.xcassets */,
+				FAA00007000000001A000003 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		1AFFFFFFFFFFFFFFFFFFFFF0 /* Models */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				1A000009000000001A000004 /* Story.swift */,
-				1A00000B000000001A000005 /* User.swift */,
+				FAA00009000000001A000004 /* Story.swift */,
+				FAA0000B000000001A000005 /* User.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		1AFFFFFFFFFFFFFFFFFFFFF1 /* Views */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				1A00000D000000001A000006 /* AuthView.swift */,
-				1A00000F000000001A000007 /* DiscoverView.swift */,
-				1A000011000000001A000008 /* LibraryView.swift */,
-				1A000013000000001A000009 /* StoryDetailView.swift */,
-				1A000015000000001A00000A /* ReadingView.swift */,
+				FAA0000D000000001A000006 /* AuthView.swift */,
+				FAA0000F000000001A000007 /* DiscoverView.swift */,
+				FAA00011000000001A000008 /* LibraryView.swift */,
+				FAA00013000000001A000009 /* StoryDetailView.swift */,
+				FAA00015000000001A00000A /* ReadingView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		1AFFFFFFFFFFFFFFFFFFFFFF /* Products */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1AFFFFFFFFFFFFFFFA000000 /* FlameApp.app */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		1AFFFFFFFFFFFFFFFFFFFFFF /* */ = {
-			isa = PBXGroup;
-			children = (
-				1AFFFFFFFFFFFFFFFFFFFFFF /* FlameApp */,
-				1AFFFFFFFFFFFFFFFFFFFFFF /* Products */,
-			);
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1AFFFFFFFFFFFFFFFA000000 /* FlameApp */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1AFFFFFFFFFFFFFFFFFFFE /* Build configuration list for PBXNativeTarget "FlameApp" */;
+			buildConfigurationList = FAAFFFFFFFFFFFFFFFFFFFFF /* Build configuration list for PBXNativeTarget "FlameApp" */;
 			buildPhases = (
-				1AFFFFFFFFFFFFFFFC000000 /* Sources */,
-				1AFFFFFFFFFFFFFFFD000000 /* Frameworks */,
-				1AFFFFFFFFFFFFFFFE000000 /* Resources */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Sources */,
+				FAAFFFFFFFFFFFFFFD000000 /* Frameworks */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Resources */,
 			);
 			buildRules = (
 			);
@@ -121,25 +121,25 @@
 			);
 			name = FlameApp;
 			productName = FlameApp;
-			productReference = 1AFFFFFFFFFFFFFFFA000000 /* FlameApp.app */;
+			productReference = FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1AFFFFFFFFFFFFFFFFFFFFFF /* Project object */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					1AFFFFFFFFFFFFFFFA000000 = {
+					FAAFFFFFFFFFFFFFFFFFFFFF = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
 			};
-			buildConfigurationList = 1AFFFFFFFFFFFFFFFFFFFE /* Build configuration list for PBXProject "FlameApp" */;
+			buildConfigurationList = FAAFFFFFFFFFFFFFFFFFFFFF /* Build configuration list for PBXProject "FlameApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -147,49 +147,49 @@
 				en,
 				Base,
 			);
-			mainGroup = 1AFFFFFFFFFFFFFFFFFFFFFF /* */;
-			productRefGroup = 1AFFFFFFFFFFFFFFFFFFFFFF /* Products */;
+			mainGroup = FAAFFFFFFFFFFFFFFFFFFFFF /* */;
+			productRefGroup = FAAFFFFFFFFFFFFFFFFFFFFF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1AFFFFFFFFFFFFFFFA000000 /* FlameApp */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* FlameApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1AFFFFFFFFFFFFFFFE000000 /* Resources */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A000008000000001A000004 /* Preview Assets.xcassets in Resources */,
-				1A000005000000001A000003 /* Assets.xcassets in Resources */,
+				FAA00008000000001A000004 /* Preview Assets.xcassets in Resources */,
+				FAA00005000000001A000003 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1AFFFFFFFFFFFFFFFC000000 /* Sources */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A000003000000001A000002 /* ContentView.swift in Sources */,
-				1A00000A000000001A000005 /* Story.swift in Sources */,
-				1A00000C000000001A000006 /* User.swift in Sources */,
-				1A00000E000000001A000007 /* AuthView.swift in Sources */,
-				1A000010000000001A000008 /* DiscoverView.swift in Sources */,
-				1A000012000000001A000009 /* LibraryView.swift in Sources */,
-				1A000014000000001A00000A /* StoryDetailView.swift in Sources */,
-				1A000016000000001A00000B /* ReadingView.swift in Sources */,
-				1A000001000000001A000001 /* FlameAppApp.swift in Sources */,
+				FAA00003000000001A000002 /* ContentView.swift in Sources */,
+				FAA0000A000000001A000005 /* Story.swift in Sources */,
+				FAA0000C000000001A000006 /* User.swift in Sources */,
+				FAA0000E000000001A000007 /* AuthView.swift in Sources */,
+				FAA00010000000001A000008 /* DiscoverView.swift in Sources */,
+				FAA00012000000001A000009 /* LibraryView.swift in Sources */,
+				FAA00014000000001A00000A /* StoryDetailView.swift in Sources */,
+				FAA00016000000001A00000B /* ReadingView.swift in Sources */,
+				FAA00001000000001A000001 /* FlameAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1AFFFFFFFFFFFFFFFFFFFFFF /* Debug */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -252,7 +252,7 @@
 			};
 			name = Debug;
 		};
-		1AFFFFFFFFFFFFFFFFFFFFFF /* Release */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -308,7 +308,7 @@
 			};
 			name = Release;
 		};
-		1AFFFFFFFFFFFFFFFFFFFFFF /* Debug */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -336,7 +336,7 @@
 			};
 			name = Debug;
 		};
-		1AFFFFFFFFFFFFFFFFFFFFFF /* Release */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -367,25 +367,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1AFFFFFFFFFFFFFFFFFFFE /* Build configuration list for PBXNativeTarget "FlameApp" */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Build configuration list for PBXNativeTarget "FlameApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1AFFFFFFFFFFFFFFFFFFFFFF /* Debug */,
-				1AFFFFFFFFFFFFFFFFFFFFFF /* Release */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Debug */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1AFFFFFFFFFFFFFFFFFFFE /* Build configuration list for PBXProject "FlameApp" */ = {
+		FAAFFFFFFFFFFFFFFFFFFFFF /* Build configuration list for PBXProject "FlameApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1AFFFFFFFFFFFFFFFFFFFFFF /* Debug */,
-				1AFFFFFFFFFFFFFFFFFFFFFF /* Release */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Debug */,
+				FAAFFFFFFFFFFFFFFFFFFFFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1AFFFFFFFFFFFFFFFFFFFFFF /* Project object */;
+	rootObject = FAAFFFFFFFFFFFFFFFFFFFFF /* Project object */;
 }
